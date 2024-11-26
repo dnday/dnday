@@ -2,6 +2,9 @@
 
 I'm Marcelinus Dinoglide Yoga Prakoso, a passionate developer always eager to learn and explore new technologies!
 
+## dnday's GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnday&show_icons=true&theme=radical)
+
 ### 🌱 Learning & Growth
 - Currently diving deep into **Go and Docker**
 - Exploring best practices in **Web Development
