@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**dnday/dnday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marcelinus Dinoglide Yoga Prakoso, a passionate developer always eager to learn and explore new technologies!
 
-Here are some ideas to get you started:
+### 🌱 Learning & Growth
+- Currently diving deep into **Go and Docker**
+- Exploring best practices in **Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 Collaboration
+- Open to collaborating on exciting open-source projects.
+- Interested in contributing to **AI and related-things**
+
+### 🤔 Seeking Help
+- Looking for guidance on **Web Development
+
+### 💬 Ask Me About
+- **Anything**
+
+### 📫 How to Reach Me
+- [Email](mailto:marceldino9@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/marcelinus-dinoglide-yoga-prakoso)
+
+### 😄 Pronouns
+- He/Him 
+
+### ⚡ Fun Fact
+- Series is my LIFE
+
+Thank you for visiting my profile! Feel free to connect with me on social platforms or check out my repositories.
