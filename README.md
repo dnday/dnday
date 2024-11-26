@@ -26,4 +26,11 @@ I'm Marcelinus Dinoglide Yoga Prakoso, a passionate developer always eager to le
 ### ⚡ Fun Fact
 - Series is my LIFE
 
+### Tools
+- ![Go](https://img.shields.io/badge/Code-Go-blue)
+- ![HTML](https://img.shields.io/badge/Code-HTML-orange)
+- ![C++](https://img.shields.io/badge/Code-C++-blue)
+- ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+
+
 Thank you for visiting my profile! Feel free to connect with me on social platforms or check out my repositories.
