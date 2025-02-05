@@ -10,12 +10,9 @@ I'm Marcelinus Dinoglide Yoga Prakoso, a passionate developer always eager to le
 - Currently diving deep into **Go and Docker**
 - Exploring best practices in **Web Development**
 
-### 👯 Collaboration
-- Open to collaborating on exciting open-source projects.
-- Interested in contributing to **AI and related-things**
 
 ### 🤔 Seeking Help
-- Looking for guidance on **Web Development
+- Looking for guidance on **Web Development**
 
 ### 💬 Ask Me About
 - **Anything**
