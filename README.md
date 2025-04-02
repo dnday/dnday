@@ -21,17 +21,15 @@ I'm Marcelinus Dinoglide Yoga Prakoso, a passionate developer always eager to le
 - [Email](mailto:marceldino9@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/marcelinus-dinoglide-yoga-prakoso)
 
-### 😄 Pronouns
-- He/Him 
 
 ### ⚡ Fun Fact
 - Series is my LIFE
 
 ### Tools
-- ![Go](https://img.shields.io/badge/Code-Go-blue)
-- ![HTML](https://img.shields.io/badge/Code-HTML-orange)
-- ![C++](https://img.shields.io/badge/Code-C++-blue)
-- ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+- ![Go](https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=go)
+- ![HTML](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
+- ![C++](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus)
+- ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb)
 
 
 Thank you for visiting my profile! Feel free to connect with me on social platforms or check out my repositories.
