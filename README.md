@@ -1,35 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-I'm Marcelinus Dinoglide Yoga Prakoso, a passionate developer always eager to learn and explore new technologies!
+# Hi there, I'm Marcelinus Dinoglide Yoga Prakoso! 👋
 
-## dnday's GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnday&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnday&layout=compact&theme=radical)
+### 🚀 Backend Developer Enthusiast | Go Explorer
 
-### 🌱 Learning & Growth
-- Currently diving deep into **Go and Docker**
-- Exploring best practices in **Web Development**
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcelinus-dinoglide-yoga-prakoso">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:marceldino9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
+---
 
-### 🤔 Seeking Help
-- Looking for guidance on **Web Development**
+### 🧐 About Me
 
-### 💬 Ask Me About
-- **Anything**
+I'm a passionate developer based in Indonesia. I love exploring new technologies and building efficient applications.
 
-### 📫 How to Reach Me
-- [Email](mailto:marceldino9@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/marcelinus-dinoglide-yoga-prakoso)
+- 🔭 I’m currently working on **Go (Golang)**.
+- 🌱 I’m constantly learning best practices in **Web Development**.
+- 👯 I’m looking to collaborate on **Go Projects**.
+- ⚡ **Fun Fact:** TV Series are my LIFE (Feel free to recommend one!).
 
+---
 
-### ⚡ Fun Fact
-- Series is my LIFE
+### 🛠️ Tech Stack
 
-### Tools
-- ![Go](https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=go)
-- ![HTML](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
-- ![C++](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus)
-- ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb)
+</div>
 
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
-Thank you for visiting my profile! Feel free to connect with me on social platforms or check out my repositories.
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dnday&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="dnday's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnday&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="43%" />
+</p>
+
+<br/>
+
+Thanks for visiting my profile! Feel free to connect with me. 🚀
+
+</div>
