@@ -1,69 +1,130 @@
 <div align="center">
 
-# ⬛ HI THERE, I'M MARCELINUS DINOGLIDE! ⬛
+# Marcelinus Dinoglide Yoga Prakoso
 
-<a href="https://github.com/dnday">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=000000&background=FFE500&center=true&vCenter=true&width=500&height=60&lines=BACKEND+DEVELOPER;ROBOTICS+ENTHUSIAST;GO+EXPLORER" alt="Typing SVG" />
-</a>
+### Backend Developer • Robotics Enthusiast • AI Engineer
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend+Engineering;ROS+%26+Robotics;AI+%2F+Computer+Vision;Embedded+Systems;Building+Intelligent+Systems" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcelinus-dinoglide-yoga-prakoso">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:marceldino9@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-FF90E8?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-</p>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7)](https://www.linkedin.com/in/marcelinus-dinoglide-yoga-prakoso)
+[![Email](https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=F7768E)](mailto:marceldino9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=C0CAF5)](https://github.com/dnday)
+[![Profile Views](https://komarev.com/ghpvc/?username=dnday&style=for-the-badge&color=7AA2F7)](https://github.com/dnday)
 
 </div>
 
 ---
 
-### 🟨 ABOUT ME
-> **I'm a passionate developer based in Indonesia. I build efficient systems, tinker with robotics, and love exploring new technologies.**
+# About Me
 
-- 🔭 I’m currently focused on building robust systems with **Go (Golang)**.
-- 🌱 I’m constantly learning best practices in **Web Development & Systems Architecture**.
-- 👯 I’m looking to collaborate on **Go Projects**.
-- ⚡ **Fun Fact:** TV Series are my LIFE (Feel free to drop a recommendation in my inbox!).
+I'm an Electrical & Information Engineering student at **Universitas Gadjah Mada** with strong interests in:
 
----
+- Backend Engineering
+- Robotics & Autonomous Systems
+- AI & Computer Vision
+- Embedded Systems
+- Distributed Systems
 
-### 🟦 TECH STACK
-
-**CORE & LANGUAGES** <br>
-![Go](https://img.shields.io/badge/go-%23000000.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white) 
-
-**BACKEND, CLOUD & DB** <br>
-![Firebase](https://img.shields.io/badge/firebase-%23000000.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28) ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![Postgres](https://img.shields.io/badge/postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=4ea94b) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%23000000.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**FRONTEND** <br>
-![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23000000.svg?style=for-the-badge&logo=vite&logoColor=646CFF) ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**AI, DATA & HARDWARE** <br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23000000.svg?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-%23000000.svg?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C) ![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=F7931E) ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=00979D) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=76B900)
-
-**TOOLS** <br>
-![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=F05033) ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Jest](https://img.shields.io/badge/-jest-%23000000?style=for-the-badge&logo=jest&logoColor=C21325)
+Currently focused on building scalable backend systems using **Go**, while also exploring **ROS**, autonomous navigation, and intelligent robotics systems.
 
 ---
 
-### 🟪 GITHUB STATS
+# Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnday&show_icons=true&include_all_commits=true&count_private=true&bg_color=FF90E8&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&border_radius=0" alt="Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnday&background=FFE500&border=000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnday&layout=compact&include_all_commits=true&count_private=true&bg_color=00C3FF&title_color=000000&text_color=000000&border_color=000000&border_radius=0" alt="Top Langs" />
-</p>
+## Languages
+
+![Go](https://img.shields.io/badge/Go-1A1B27?style=for-the-badge&logo=go&logoColor=7AA2F7)
+![Python](https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=7AA2F7)
+![C++](https://img.shields.io/badge/C++-1A1B27?style=for-the-badge&logo=cplusplus&logoColor=7AA2F7)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1B27?style=for-the-badge&logo=typescript&logoColor=7AA2F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=E0AF68)
 
 ---
+
+## Backend & Database
+
+![NodeJS](https://img.shields.io/badge/NodeJS-1A1B27?style=for-the-badge&logo=node.js&logoColor=9ECE6A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=7AA2F7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1B27?style=for-the-badge&logo=mongodb&logoColor=9ECE6A)
+![Prisma](https://img.shields.io/badge/Prisma-1A1B27?style=for-the-badge&logo=prisma&logoColor=C0CAF5)
+![Supabase](https://img.shields.io/badge/Supabase-1A1B27?style=for-the-badge&logo=supabase&logoColor=9ECE6A)
+![Firebase](https://img.shields.io/badge/Firebase-1A1B27?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+---
+
+## Frontend
+
+![NextJS](https://img.shields.io/badge/Next.js-1A1B27?style=for-the-badge&logo=next.js&logoColor=C0CAF5)
+![React](https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react&logoColor=7DCFFF)
+![Vite](https://img.shields.io/badge/Vite-1A1B27?style=for-the-badge&logo=vite&logoColor=BB9AF7)
+![HTML5](https://img.shields.io/badge/HTML5-1A1B27?style=for-the-badge&logo=html5&logoColor=F7768E)
+![CSS3](https://img.shields.io/badge/CSS3-1A1B27?style=for-the-badge&logo=css3&logoColor=7AA2F7)
+
+---
+
+## Robotics & AI
+
+![ROS](https://img.shields.io/badge/ROS-1A1B27?style=for-the-badge&logo=ros&logoColor=C0CAF5)
+![OpenCV](https://img.shields.io/badge/OpenCV-1A1B27?style=for-the-badge&logo=opencv&logoColor=BB9AF7)
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1B27?style=for-the-badge&logo=pytorch&logoColor=FF9E64)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1B27?style=for-the-badge&logo=tensorflow&logoColor=FF9E64)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-1A1B27?style=for-the-badge&logo=scikit-learn&logoColor=F7768E)
+![Arduino](https://img.shields.io/badge/Arduino-1A1B27?style=for-the-badge&logo=arduino&logoColor=7DCFFF)
+![CUDA](https://img.shields.io/badge/CUDA-1A1B27?style=for-the-badge&logo=nvidia&logoColor=9ECE6A)
+
+---
+
+## Tools
+
+![Linux](https://img.shields.io/badge/Linux-1A1B27?style=for-the-badge&logo=linux&logoColor=E0AF68)
+![Docker](https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=7DCFFF)
+![Git](https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=F7768E)
+![Postman](https://img.shields.io/badge/Postman-1A1B27?style=for-the-badge&logo=postman&logoColor=FF9E64)
+![Figma](https://img.shields.io/badge/Figma-1A1B27?style=for-the-badge&logo=figma&logoColor=BB9AF7)
+![Jest](https://img.shields.io/badge/Jest-1A1B27?style=for-the-badge&logo=jest&logoColor=C0CAF5)
+
+---
+
+# GitHub Analytics
+
 <div align="center">
-  <b>Thanks for visiting my profile! Let's build something awesome. 🚀</b><br><br>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=dnday&icon=0&color=0" alt="Visitor Count"></a>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnday&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnday&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=dnday&theme=tokyonight&hide_border=true&background=1A1B27"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnday&theme=tokyo-night&hide_border=true&bg_color=1A1B27)](https://github.com/dnday)
+
+---
+
+# Current Focus
+
+- Backend systems with Go
+- ROS-based robotics
+- AI for autonomous systems
+- Embedded & computer vision projects
+- Distributed system architecture
+
+---
+
+<div align="center">
+
+### “Building intelligent systems between software and hardware.”
+
 </div>
