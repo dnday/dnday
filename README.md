@@ -60,23 +60,17 @@ class Marcelinus:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dnday&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnday&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dnday&show_icons=true&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=E0E6FF&icon_color=BB9AF7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnday&layout=compact&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=E0E6FF" />
 
-<img src="https://streak-stats.demolab.com?user=dnday&theme=tokyo-night&hide_border=true&background=1A1B27" width="98%" />
+<img src="https://streak-stats.demolab.com?user=dnday&hide_border=true&background=1A1B27&ring=7AA2F7&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7AA2F7&sideLabels=C0CAF5&dates=A9B1D6" width="98%" />
 
-</div>
-
-### 🏅 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dnday&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
 </div>
 
 ### 📈 Contribution graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnday&theme=tokyo-night&hide_border=true&bg_color=1A1B27&area=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnday&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=FFFFFF&area_color=7AA2F7&area=true" width="98%" />
 </div>
 
 ### 🐍 Contribution snake
